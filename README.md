@@ -125,4 +125,10 @@ Assignments:
 Assignments:
 1. Use a for loop to print the numbers 1 to 10.
 2. Use a while loop to print the numbers from 10 to 1 in descending order
+
+
+**Week 1 Recap**
+Assignments:
+1. Create a [bubblesort algorithm](https://www.google.com/search?q=bubble+sort&rlz=1C5CHFA_enUS1003US1003&oq=bubble+sort&aqs=chrome..69i57j0i67i650j0i67i433i650j0i512j0i67i650j0i512l5.1906j0j4&sourceid=chrome&ie=UTF-8)
+2. Create a game of tictactoe
   
